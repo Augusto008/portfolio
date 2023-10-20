@@ -310,18 +310,6 @@
                     </div>
                 @endforeach
             </div>
-            {{-- <button class="carousel-control-prev d-block m-auto" type="button" data-bs-target="#my-projects" data-bs-slide="prev" style="width: 8%;">
-                <div class="d-flex justify-content-start align-items-center">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </div>
-            </button>
-            <button class="carousel-control-next d-block m-auto" type="button" data-bs-target="#my-projects" data-bs-slide="next" style="width: 8%;">
-                <div class="d-flex justify-content-end align-items-center">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </div>
-            </button> --}}
         </div>
     </div>
 
